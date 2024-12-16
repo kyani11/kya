@@ -1967,5 +1967,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-16 22:05:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2024-12-16 22:05:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
