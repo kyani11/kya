@@ -1,0 +1,13 @@
+{
+  "enableBackup": true,
+  "autoBackup": true,
+  "backupInterval": 30,
+  "backupWhenExit": true,
+  "broadCastBackupMessage": true,
+  "outputPath": "cloudbackups",
+  "googleDrive": {
+    "enabled": false,
+    "uploadDir": "cloudbackups",
+    "makeWorldDir": true
+  }
+}
