@@ -104,3 +104,6 @@
 [16Dec2024 21:07:35.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naary joined the game
 [16Dec2024 21:07:35.241] [Server thread/INFO] [Jade/]: Syncing config to Naary (73485eed-a929-32fb-8e8c-069cb6e40431)
 [16Dec2024 21:07:37.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[16Dec2024 21:08:38.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naary has made the advancement [Not Today, Thank You]
+[16Dec2024 21:13:02.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naary has made the advancement [Diamonds!]
+[16Dec2024 21:14:59.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naary was slain by Cave Spider
