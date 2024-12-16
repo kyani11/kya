@@ -111,3 +111,6 @@
 [16Dec2024 21:31:46.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naary has made the advancement [Hot Stuff]
 [16Dec2024 21:33:00.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naary was slain by Murmur
 [16Dec2024 21:37:19.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naary has made the advancement [Suit Up]
+[16Dec2024 21:56:32.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enz0mnio[/127.103.137.155:43507] logged in with entity id 15158 at (138.72195875766, 74.0, -1356.359250213262)
+[16Dec2024 21:56:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enz0mnio joined the game
+[16Dec2024 21:56:33.033] [Server thread/INFO] [Jade/]: Syncing config to Enz0mnio (182c88f0-b05a-3dc7-afe5-9a08154822b1)
