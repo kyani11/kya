@@ -11,6 +11,7 @@
       "minecraft:cherry_grove": "2024-12-14 22:28:35 +0000",
       "minecraft:birch_forest": "2024-12-16 22:16:04 +0000",
       "minecraft:beach": "2024-12-16 22:15:48 +0000",
+      "minecraft:dark_forest": "2024-12-16 22:25:15 +0000",
       "minecraft:river": "2024-12-14 22:25:59 +0000",
       "minecraft:forest": "2024-12-14 23:03:37 +0000",
       "minecraft:ocean": "2024-12-14 22:56:21 +0000",
@@ -540,7 +541,9 @@
       "cooked_porkchop": "2024-12-14 22:51:13 +0000",
       "cooked_mutton": "2024-12-15 20:43:30 +0000",
       "cooked_beef": "2024-12-14 22:32:06 +0000",
-      "apple": "2024-12-14 22:26:37 +0000"
+      "beef": "2024-12-16 22:25:40 +0000",
+      "apple": "2024-12-14 22:26:37 +0000",
+      "bread": "2024-12-16 22:33:50 +0000"
     },
     "done": false
   },
@@ -1976,6 +1979,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-16 22:36:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 22:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-16 22:22:44 +0000"
@@ -1985,6 +2000,78 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-16 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-16 22:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-16 22:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-16 22:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-16 22:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-16 22:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-12-16 22:26:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-16 22:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-16 22:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-16 22:30:23 +0000"
     },
     "done": true
   },
