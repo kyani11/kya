@@ -114,3 +114,10 @@
 [16Dec2024 21:56:32.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enz0mnio[/127.103.137.155:43507] logged in with entity id 15158 at (138.72195875766, 74.0, -1356.359250213262)
 [16Dec2024 21:56:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enz0mnio joined the game
 [16Dec2024 21:56:33.033] [Server thread/INFO] [Jade/]: Syncing config to Enz0mnio (182c88f0-b05a-3dc7-afe5-9a08154822b1)
+[16Dec2024 21:59:26.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enz0mnio moved too quickly! 8.441049724281768,-1.0,-5.574878754305246
+[16Dec2024 22:02:00.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enz0mnio moved wrongly!
+[16Dec2024 22:03:08.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enz0mnio moved too quickly! 4.874532891428743,1.1661092609382138,8.808594645519634
+[16Dec2024 22:03:49.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enz0mnio moved too quickly! 2.70614730132516,0.7531999805212024,-9.658982260712264
+[16Dec2024 22:06:06.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enz0mnio moved too quickly! -6.805965711768792,0.16610926093821377,-7.451924925494723
+[16Dec2024 22:06:26.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enz0mnio moved too quickly! 8.439163656359241,-5.535840625044557,-0.8580228591863488
+[16Dec2024 22:06:46.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enz0mnio moved too quickly! -4.581769918991057,-2.0548933470320776,8.819841748648514
